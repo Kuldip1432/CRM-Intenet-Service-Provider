@@ -1,0 +1,4 @@
+[2023-10-16 15:47:38] ERROR: (500) From email address is not valid.; POST /Email; line: 528, file: C:\xampp\htdocs\CRM_ISP\application\Espo\Tools\Email\SendService.php  
+[2023-10-16 15:48:20] ERROR: (500) From email address is not valid.; POST /Email; line: 528, file: C:\xampp\htdocs\CRM_ISP\application\Espo\Tools\Email\SendService.php  
+[2023-10-16 15:50:56] ERROR: (500) From email address is not valid.; POST /Email; line: 528, file: C:\xampp\htdocs\CRM_ISP\application\Espo\Tools\Email\SendService.php  
+[2023-10-16 15:51:31] ERROR: (500) From email address is not valid.; POST /Email; line: 528, file: C:\xampp\htdocs\CRM_ISP\application\Espo\Tools\Email\SendService.php  
