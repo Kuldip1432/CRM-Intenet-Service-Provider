@@ -1,7 +1,7 @@
 # CRM-Intenet-Service-Provider
 **Technologies**
-- Php 
-- MySQL
+- Php
+- mysql
 - JavaScript
 - JQuery
 - Ajax
